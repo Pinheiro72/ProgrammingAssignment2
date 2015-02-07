@@ -1,7 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-## This function creates a list based on a matrix
+## This function creates a list based on a n-by-n square matrix
 
 makeCacheMatrix <- function(x = matrix()) {
         m <- NULL
